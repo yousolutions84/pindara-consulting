@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>main_background1.jpg</ImageUrl>
+    <NavigateUrl>~/Services.aspx</NavigateUrl>
+    <AlternateText>Pindara Consulting</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>Pindara Consulting</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>main_background2.jpg</ImageUrl>
+    <NavigateUrl>~/Services.aspx</NavigateUrl>
+    <AlternateText>Pindara Consulting</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>Pindara Consulting</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>main_background5.jpg</ImageUrl>
+    <NavigateUrl>~/Services.aspx</NavigateUrl>
+    <AlternateText>Pindara Consulting</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>Pindara Consulting</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>main_background6.jpg</ImageUrl>
+    <NavigateUrl>~/Services.aspx</NavigateUrl>
+    <AlternateText>Pindara Consulting</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>Pindara Consulting</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>main_background12.jpg</ImageUrl>
+    <NavigateUrl>~/Services.aspx</NavigateUrl>
+    <AlternateText>Pindara Consulting</AlternateText>
+    <Impressions>50</Impressions>
+    <Keyword>Pindara Consulting</Keyword>
+  </Ad>
+</Advertisements>
